@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "date": "15-03-2017",
+    "commands": "",
+    "gpg": false,
+    "devices": [
+        {
+            "files": [
+                {
+                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/s2-stable/multirom-20170315-v33-UNOFFICIAL-s2.zip",
+                    "version": "33-20170315-01",
+                    "type": "multirom",
+                    "size": "4440619"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/s2-stable/mr-twrp-recovery-20170315-01-STABLE8.img",
+                    "version": "mrom20170315-01",
+                    "type": "recovery",
+                    "size": "21465088"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/s2-stable/multirom_uninstaller.zip",
+                    "version": "",
+                    "type": "uninstaller",
+                    "size": "1706555"
+                }
+            ],
+            "changelogs": [],
+            "name": "s2"
+        }
+    ]
+}
