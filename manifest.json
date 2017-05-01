@@ -1,22 +1,22 @@
 {
     "status": "ok",
-    "date": "13-04-2017",
+    "date": "01-05-2017",
     "commands": "",
     "gpg": false,
     "devices": [
         {
             "files": [
                 {
-                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/multirom-20170413-v33-UNOFFICIAL-x2.zip",
+                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/multirom-20170501-v33-UNOFFICIAL-x2.zip",
                     "version": "33",
                     "type": "multirom",
-                    "size": "4441541"
+                    "size": "4441545"
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/mr-twrp-recovery-20170413-01-STABLE8.img",
-                    "version": "mrom20170413-01",
+                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/mr-twrp-recovery-20170501-02-STABLE8.img",
+                    "version": "mrom20170501-02",
                     "type": "recovery",
-                    "size": "30367744"
+                    "size": "30486528"
                 },
                 {
                     "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/multirom_uninstaller.zip",
