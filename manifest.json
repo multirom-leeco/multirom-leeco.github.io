@@ -1,20 +1,20 @@
 {
     "status": "ok",
-    "date": "18-09-2017",
+    "date": "21-09-2017",
     "commands": "",
     "gpg": false,
     "devices": [
         {
             "files": [
                 {
-                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/multirom-20170918-v33-UNOFFICIAL-x2.zip",
+                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/multirom-20170921-v33-UNOFFICIAL-x2.zip",
                     "version": "33",
                     "type": "multirom",
-                    "size": "4366246"
+                    "size": "4366242"
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/mr-twrp-recovery-20170918-01-STABLE8.img",
-                    "version": "mrom20170918-01",
+                    "url": "https://raw.githubusercontent.com/multirom-leeco/multirom-leeco.github.io/x2-stable/mr-twrp-recovery-20170921-02-STABLE8.img",
+                    "version": "mrom20170921-02",
                     "type": "recovery",
                     "size": "30478336"
                 },
